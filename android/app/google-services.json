@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263617126928",
+    "project_id": "chartapp-4a5aa",
+    "storage_bucket": "chartapp-4a5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263617126928:android:eefa880f0e6a2c7dd96095",
+        "android_client_info": {
+          "package_name": "com.example.chartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263617126928-vp1aauh6ijdrije7q9o50kolj0h38guv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7kyfAxf07MFoQ1tdEWntuwgRPHPJ85E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263617126928-vp1aauh6ijdrije7q9o50kolj0h38guv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
